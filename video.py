@@ -1,6 +1,6 @@
 # organize imports
 import numpy as np
-import cv2
+qasdfgyuiASDFGHJKimport cv2
 
 # This will return video from the first webcam on your computer.
 cap = cv2.VideoCapture(0)
