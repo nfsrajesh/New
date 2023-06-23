@@ -1,4 +1,4 @@
-uoasihg risyoig hWRIORHDYKJTUIJCFGJTUC# organize imports
+# organize imports
 import numpy as np
 import cv2
 
