@@ -1,19 +1,3 @@
-# import numpy as np
-# import cv2
-#
-#
-# num=int(input("Enter the image count : "))
-# name=input("Enter the video name : ")
-# cap = cv2.VideoCapture(0)
-# width=2590
-# height=1942
-# cap.set(3, width)  # width=1920
-# cap.set(4, height)  # height=1080
-# fourcc = cv2.VideoWriter_fourcc(*'XVID')
-# out = cv2.VideoWriter(f'/home/nfsrajesh/cam/ledvideo/{name}.avi', fourcc, 20.0, (width, height))
-#
-# count = 0
-
 from pypylon import pylon
 import cv2,time
 
